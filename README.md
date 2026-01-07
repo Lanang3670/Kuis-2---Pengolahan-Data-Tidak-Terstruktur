@@ -5,3 +5,5 @@ I Gusti Ngurah Ajung Bagus Ogastya Avatara Rayna (230030335)
 
 // langkah pertama, bisa dengan menginstall requirement.txt terlebih dahulu dengan mengetik "pip install -r requirements.txt" pada terminal di VSCode
 // lalu baru dapat melakukan run code dengan mengetik "streamlit run main.py" pada terminal VsCode
+
+"untuk versi python yang digunakan itu versi 3.11 ya pak"
