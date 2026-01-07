@@ -74,3 +74,4 @@ def main():
             file_name="hasil_edit.png",
             mime="image/png"
         )
+main()
