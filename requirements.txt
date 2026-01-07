@@ -1,5 +1,4 @@
-Pillow==10.2.0
 streamlit
 opencv-python
 numpy
-python 3.11
+Pillow
